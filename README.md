@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning AIML
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me @sambhunathsahu19112(twiter)
-- ⚡ Fun fact: i am dumb
+- ⚡ Fun fact: not so funny
 
 <!---
 sambhu1911/sambhu1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
