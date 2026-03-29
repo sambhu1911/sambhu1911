@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sambhu nath sahu
-- 👀 I’m interested in learning AIML
-- 🌱 I’m currently learning blockchain
-- 📫 How to reach me @sambhunathsahu19112(twiter)
+- 👀 I’m interested in learning AI/ML
+- 🌱 I’m currently learning data analytics
+  
 - ⚡ Fun fact: not so funny
 
 <!---
